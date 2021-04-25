@@ -1,0 +1,90 @@
+body {
+    background-color: #407394;
+}
+
+
+h1 {
+    font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    color: white;
+}
+
+#subheader {
+    font-weight: bold;
+}
+
+h5 {
+    color:#396885;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+span {
+    color:#396885;
+    font-weight: bolder;
+}
+
+#news {
+    margin-top: 5rem;
+    margin-left: 10rem;
+    color: white;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#news:hover {
+    color: #9FB9CA;
+}
+
+#intro_pic {
+ width: 420px;
+ height: 220.5px;
+ border-radius: 20px;
+ margin-top: -24px;
+}
+
+#box1 {
+    width: 900px;
+    background-color: #3C6B8B;
+    border-radius: 20px;
+}
+
+#icon {
+    width: 40px;
+    height: 40px;
+    padding: 5px;
+    margin-top: -24px;
+    margin-left: 50px;
+    background-color: #39A046;
+}
+
+#icon:hover {
+background-color: #319A2A;
+}
+
+
+#box2 {
+    background-color: white;
+    color: #464646;
+    border-end-end-radius: 20px;
+    border-bottom-left-radius: 20px;
+    line-height: 30px;
+    font-family: "Helvetica", "Helvetica Neue", "Arial", sans-serif;
+}
+
+#box2 h4 {
+    color:#396885;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#power_cards {
+width: 420px;
+ height: 220.5px;
+ border-radius: 20px;
+}
+
+#screengrabs {
+height: 400px;
+
+}
